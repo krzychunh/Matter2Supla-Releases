@@ -11,6 +11,8 @@ Matter2Supla pozwala połączyć kompatybilne czujniki Matter over Thread z syst
 
 ## Pobierz firmware
 
+**[Pobierz kod źródłowy RC4.7D.5 BETA dla N16R8 i N32R8](https://raw.githubusercontent.com/krzychunh/Matter2Supla-Releases/main/sources/Matter2Supla-S7.18-RC4.7D.5-BETA-SOURCE.zip)** (ZIP). Archiwum zawiera aplikację, używaną bibliotekę SUPLA, oba profile pamięci, poprawki SDK i instrukcję kompilacji. SHA-256 archiwum to `b5dfc99a85b89f17aab9d6f98ba8f63974129111966498a17a4cc76aeaef86bc`.
+
 | Moduł | Flash / PSRAM | Aktualizacja APP (0x20000) | Pełna instalacja (0x0) |
 | --- | --- | --- | --- |
 | ESP32-C5 N16R8 | 16 MB / 8 MB | [APP.bin](https://github.com/krzychunh/Matter2Supla-Releases/releases/download/v0.9.3-s7.18-rc4.7d.5-beta/Matter2Supla-S7.18-RC4.7D.5-BETA-N16R8-APP.bin) | [FULL-0x0.bin](https://github.com/krzychunh/Matter2Supla-Releases/releases/download/v0.9.3-s7.18-rc4.7d.5-beta/Matter2Supla-S7.18-RC4.7D.5-BETA-N16R8-FULL-0x0.bin) |
@@ -184,7 +186,7 @@ Kolejne etapy obejmują pomiary czasu odzyskiwania czujników, długotrwałe tes
 
 ## Licencje i autorstwo
 
-Projekt: **[krzychunh](https://github.com/krzychunh)**. To repozytorium służy do dystrybucji firmware i dokumentacji, nie zawiera kodu źródłowego projektu. Komponenty zewnętrzne podlegają swoim licencjom; niniejszy opis nie zmienia praw wynikających z tych licencji.
+Autorem projektu jest **[krzychunh](https://github.com/krzychunh)**. Kod własny wydania RC4.7D.5 BETA oraz połączony program są udostępnione na warunkach GNU GPL w wersji 3. Oznaczenia licencyjne i informacje o autorach poszczególnych komponentów znajdują się w archiwum źródłowym.
 
 ---
 

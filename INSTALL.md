@@ -1,5 +1,9 @@
 # Matter2Supla - Installation / Instalacja
 
+## Kod źródłowy / Source code
+
+**[Pobierz kod źródłowy RC4.7D.5 BETA dla N16R8 i N32R8](https://raw.githubusercontent.com/krzychunh/Matter2Supla-Releases/main/sources/Matter2Supla-S7.18-RC4.7D.5-BETA-SOURCE.zip)** (ZIP). Archiwum zawiera aplikację, używaną bibliotekę SUPLA, oba profile pamięci, poprawki SDK i instrukcję kompilacji. SHA-256 archiwum to `b5dfc99a85b89f17aab9d6f98ba8f63974129111966498a17a4cc76aeaef86bc`.
+
 ## Requirements / Wymagania
 
 - ESP32-C5 N16R8 or N32R8.
